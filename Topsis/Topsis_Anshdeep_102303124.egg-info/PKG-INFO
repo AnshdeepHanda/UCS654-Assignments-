@@ -1,0 +1,31 @@
+Metadata-Version: 2.4
+Name: Topsis-Anshdeep-102303124
+Version: 1.0.0
+Summary: A Python package for implementing TOPSIS
+Author: Anshdeep Handa
+Author-email: anshdeep@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: license-file
+Dynamic: requires-python
+Dynamic: summary
+
+# TOPSIS-Anshdeep-102303124
+
+[![PyPI Latest Release](https://img.shields.io/pypi/v/Topsis-Anshdeep-102303124.svg)](https://pypi.org/project/Topsis-Anshdeep-102303124/)
+[![License](https://img.shields.io/pypi/l/Topsis-Anshdeep-102303124.svg)](https://opensource.org/licenses/MIT)
+
+A Python package to implement the **Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS)**.
+
+## Installation
+```bash
+pip install Topsis-Anshdeep-102303124

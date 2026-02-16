@@ -1,0 +1,2 @@
+[console_scripts]
+topsis = Topsis_Anshdeep_102303124.topsis:main
