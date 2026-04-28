@@ -178,7 +178,7 @@ This project demonstrates how **GANs can be used for statistical modeling**, not
 
 ##  Author
 
-**Divyansh Sharma**
-Roll Number: 102303964
+**Anshdeep Handa**
+Roll Number: 102303124
 
 
